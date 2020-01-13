@@ -1,1 +1,1 @@
-# Simon-Game
+The Simon game is a game of lights and sounds in which players must repeat random sequences of lights by clicking the colored buttons in the correct order. It's fast-paced play, with lights and sounds that can challenge you. Experience the fun as you repeat the patterns and advance to higher levels. To beat the Simon game, players need to remember the color pattern and repeat it by pressing the colored buttons in the correct order.
